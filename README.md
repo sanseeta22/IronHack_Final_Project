@@ -4,7 +4,7 @@
 ### Contribution - Individual
 
 # Problem Statement :
-Develop a content-based recommendation system for Netflix movies and TV shows that analyzes and suggests personalized content to users based on their preferences. The system should analyze features of the movies and TV shows, such as genres, cast, directors, plot summaries, and user ratings, to recommend titles that are similar to those the user has previously enjoyed. The goal is to enhance user engagement and satisfaction by providing relevant and diverse content tailored to individual tastes. The recommendations will be presented through an interactive user interface built using Streamlit.
+Developed a content-based recommendation system for Netflix movies and TV shows that analyzes and suggests personalized content to users based on their preferences. The system should analyze features of the movies and TV shows, such as genres, cast, directors, plot summaries, and user ratings, to recommend titles that are similar to those the user has previously enjoyed. The goal is to enhance user engagement and satisfaction by providing relevant and diverse content tailored to individual tastes. The recommendations will be presented through an interactive user interface built using Streamlit.
 
 ## Key Components of the Problem Statement:
 
